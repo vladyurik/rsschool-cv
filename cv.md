@@ -19,5 +19,5 @@ Nothing yet.
 Belarusian State University.
 
 ########Languages:
-English A2
+English A2/
 
